@@ -21,3 +21,5 @@ In Bowling blender file, I imported a reference material for the first time. I u
 
 In Low Poly Chess, I learned about appending, parents and children, lighting, roughness amd textures.
 
+Animated Lamp is the project where I learned about; armatures, pose mode, inverse kinematics and rendering an animation.
+
