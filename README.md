@@ -23,3 +23,5 @@ In Low Poly Chess, I learned about appending, parents and children, lighting, ro
 
 Animated Lamp is the project where I learned about; armatures, pose mode, inverse kinematics and rendering an animation.
 
+In Dungeon blender file, I created low poly dungeon objects such as: walls, pillars, barrels, crates and doors. In this project, I did not learn new skills but I sharpened the skills I know.
+
